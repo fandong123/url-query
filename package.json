@@ -1,0 +1,16 @@
+{
+  "name": "url-query",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["query"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fandong123/url-query"
+  },
+  "author": "",
+  "license": "ISC"
+}
